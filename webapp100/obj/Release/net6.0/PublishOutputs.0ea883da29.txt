@@ -1,0 +1,7 @@
+E:\Project\webapp100\webapp100\obj\Release\net6.0\PubTmp\Out\webapp100.exe
+E:\Project\webapp100\webapp100\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\Project\webapp100\webapp100\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\Project\webapp100\webapp100\obj\Release\net6.0\PubTmp\Out\webapp100.dll
+E:\Project\webapp100\webapp100\obj\Release\net6.0\PubTmp\Out\webapp100.deps.json
+E:\Project\webapp100\webapp100\obj\Release\net6.0\PubTmp\Out\webapp100.runtimeconfig.json
+E:\Project\webapp100\webapp100\obj\Release\net6.0\PubTmp\Out\webapp100.pdb
